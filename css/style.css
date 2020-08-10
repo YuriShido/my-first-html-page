@@ -1,0 +1,20 @@
+body {
+  background-image: url(https://lh3.googleusercontent.com/lMseRtdsfXjlHO4l15viYMmmyscLoiZIYGWDL0u4G7T2tnUmvcfnHp2bCGERyP-8XuMZjdjz7BWSFu1PFLlfEPHxZ66i-VcC0ko_oipIMNLQPpX0orOWgXy24fl-RbviQ6bj3Vqoq5JOWDJQt18e4OXedcoMHeDawl2XIsCuStyRVjlN-j7vIB874htDAHcAu1k83XH2H7V0JPW6BmbCovnJlEm602JdkVFZ29GiKkog9StxtyIl4FYKCWBiC12XOkiQOdmwq4sa25UlZM7ffiY3ogeJ0dLL81w01ub_EOvHeO7Hm2aQ0Dp6CMJ0Gq2qpRHx3eA_3CsQowE19k1VfG0OR9KnhX5DfwblALoy4mo_hswkzhmoTX4Y36jynOm_c2gpav8ctIPu7WS7ftuTE3TwFB3U8IgeW0As_gWkHVhSDonh7padmd2tID1dtPWXeWBDeSbrdoTvOyYQju7ZizDoLZdpfgY9dWX6y8qXPHZnrh8D4YF16qa4S4PAkZg_t6zM7r48JlBi6naeIRQOCxx14Stu4T9A7-M7ZzjnVRzapzuv2n8bqloQchUlyQK5y3SAFmE5RGiUo0JySxy_NSeyPNHTLzR42U9LgPNui3L47ZquMCeFwQeAjSoMwmxvI0kHSlIUCTO6AvBitsGO5skFhynNxN9-OKlC2nK4hrI1_jfXuFhUKJn1DjqTEtw=w2054-h1542-no?authuser=0);
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  font-size:40px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+ul {
+  color: yellow;
+  font-size: 28px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+li {
+  list-style-type: none;
+}
